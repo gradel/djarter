@@ -1,0 +1,8 @@
+django>=5.0
+django-allauth
+django-browser-reload
+django-debug-toolbar
+django-watchfiles
+djlint
+environs
+pip-tools
